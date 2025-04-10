@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day2App3</string>
+    <string name="counter">Orientations Counts</string>
+    <string name="counts">0</string>
+</resources>
